@@ -1,3 +1,6 @@
+
+NOTE: > 💡 To copy the full prompt — click the **Code** tab at the top of this page.
+
 Build a production-grade AI Agent chatbot in Python using LangChain with FastAPI.
 
 Follow the structure, naming conventions, and file layout exactly as specified.
